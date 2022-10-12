@@ -1,0 +1,20 @@
+
+    [class*=" el-icon-lx"], [class^=el-icon-lx] {
+        font-family: lx-iconfont!important;
+    }
+
+
+    [class*=" wejuai-icon"], [class^=wejuai-icon] {
+        font-family: wejuaiicon!important;
+    }
+
+    [class*="wejuai-icon-"], [class^=wejuai-icon-] {
+        vertical-align: middle;
+        margin-right: 10px;
+        margin-left: 3px;
+        width: 24px;
+        text-align: center;
+        font-size: 18px;
+        font-style: normal;
+
+    }
